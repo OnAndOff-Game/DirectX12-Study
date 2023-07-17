@@ -12,7 +12,7 @@
 *.obj
 
 # Compiled Directory
-.Output/
+Output/
 x64/
 
 # Precompiled Headers
