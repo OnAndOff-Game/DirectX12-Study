@@ -11,6 +11,10 @@
 *.o
 *.obj
 
+# Compiled Directory
+.Output/
+x64/
+
 # Precompiled Headers
 *.gch
 *.pch
